@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="454780e5-f037-451c-be95-1f453947ab54" name="Default Changelist" comment="" />
+    <list default="true" id="454780e5-f037-451c-be95-1f453947ab54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/Toolbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/Toolbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/Layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Layout.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +26,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1iKC8lA6JqP56MR3WLZWPr49atk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -65,14 +83,29 @@
       <option name="presentableId" value="Default" />
       <updated>1601646738575</updated>
       <workItem from="1601646740750" duration="3520000" />
-      <workItem from="1601882152884" duration="16015000" />
+      <workItem from="1601882152884" duration="16678000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1255" height="1217" key="DiffContextDialog" timestamp="1601909545487">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="100" y="123" width="1255" height="1217" key="DiffContextDialog/0.23.2560.1417/-1680.23.1680.1027@0.23.2560.1417" timestamp="1601909545487" />
     <state width="1143" height="381" key="GridCell.Tab.0.bottom" timestamp="1601646805569">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
@@ -89,6 +122,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="1143" height="381" key="GridCell.Tab.0.right/0.23.2560.1417/-1680.23.1680.1027@0.23.2560.1417" timestamp="1601646805569" />
+    <state x="515" y="650" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601909748363">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="515" y="650" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.2560.1417/-1680.23.1680.1027@0.23.2560.1417" timestamp="1601909748363" />
     <state x="274" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1601902379694">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
