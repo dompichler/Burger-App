@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="454780e5-f037-451c-be95-1f453947ab54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/Images/Bob’s_Burgers_Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Burger/Logo/Logo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/SideDrawer/DrawerToggle/DrawerToggle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/SideDrawer/DrawerToggle/DrawerToggle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/SideDrawer/SideDrawer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/SideDrawer/SideDrawer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/how-to-use.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Burger/Logo/Logo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/Logo/Logo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigation/Toolbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Toolbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigation/Toolbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Toolbar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -54,6 +66,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/Images" />
       <recent name="$PROJECT_DIR$/src/components/Burger" />
       <recent name="$PROJECT_DIR$/src/components/Burger/BurgerIngredient" />
     </key>
@@ -81,7 +94,8 @@
       <option name="presentableId" value="Default" />
       <updated>1601646738575</updated>
       <workItem from="1601646740750" duration="3520000" />
-      <workItem from="1601882152884" duration="16975000" />
+      <workItem from="1601882152884" duration="18727000" />
+      <workItem from="1601969586595" duration="7429000" />
     </task>
     <servers />
   </component>
@@ -93,7 +107,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -120,6 +136,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="1143" height="381" key="GridCell.Tab.0.right/0.23.2560.1417/-1680.23.1680.1027@0.23.2560.1417" timestamp="1601646805569" />
+    <state x="548" y="658" key="NewPhpFileDialog" timestamp="1601911146700">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="548" y="658" key="NewPhpFileDialog/0.23.2560.1417/-1680.23.1680.1027@0.23.2560.1417" timestamp="1601911146700" />
     <state x="515" y="650" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601909748363">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
